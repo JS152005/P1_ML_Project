@@ -19,9 +19,3 @@ This is a Streamlit-based application for image classification using two pre-tra
 - NumPy
 - Pillow
 
-## Setup and Usage
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-name>
